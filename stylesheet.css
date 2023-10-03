@@ -1,0 +1,30 @@
+
+*{
+ 
+}
+
+
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+html {
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background: linear-gradient(lightgreen, lightblue)
+
+}
+
+
+header {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.sections-container {
+    display: flex;
+
+}
