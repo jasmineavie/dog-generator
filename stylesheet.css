@@ -46,9 +46,14 @@ header {
     padding-right: 50px;
 }
 
-.item2 {
+.item2, ul {
 
  /*  text-align: center; */
+
+ /* padding-left: 250px;
+
+ */
+
 }
 
 .item {
@@ -65,5 +70,6 @@ header {
 }
 
 #head-title2 {
+
     text-decoration: underline;
 }
